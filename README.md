@@ -1,6 +1,7 @@
 # GPMDB_GIS_version
-Here is the GIS shapefile for the latest Global Paleomagnetism Data
-Base (GPMDB) 4.6b. It can be opened using QGIS or ArcGIS.
+Here is the GIS shapefile for the latest Global Paleomagnetism Data Base (GPMDB)
+4.6b. It can be opened using QGIS or ArcGIS. **Please note that here the points
+visulized are sampling sites**.
 
 ![GPMDB 4.6b opened in QGIS](gpmdb46b_qgis_demo.png?raw=true)
 
