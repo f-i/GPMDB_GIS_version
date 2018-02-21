@@ -1,5 +1,5 @@
 # GPMDB_GIS_version
-Here is the GIS shapefile for the latest Global Paleomagnetism Data Base (GPMDB)
+Here is the GIS shapefile for the latest Global Paleomagnetic Database (GPMDB)
 4.6b. It can be opened using QGIS or ArcGIS. **Please note that here the points
 visulized are sampling sites**.
 
@@ -26,8 +26,8 @@ This version includes published data up to Dec 2004, all Australian
 published data up to Jan 2011, and some additional data published
 in 2005-2010. The total number of included paleomagnetic poles is 9360.
 
-GPMDB was originally created by [Michael McElhinny and Jo Lock
-(1996)][2], and recently maintained by [Sergei Pisarevsky][3].
+GPMDB was originally created by [Michael McElhinny and Jo Lock (1996)][2], and
+recently maintained by [Sergei A. Pisarevsky][3].
 
 [1]: https://confluence.csiro.au/display/cmfr/Palaeomagnetism+and+Rock+Magnetism
 [2]: https://link.springer.com/article/10.1007%2FBF01888979
