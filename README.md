@@ -1,7 +1,8 @@
 # GPMDB_GIS_version
 Here is the GIS shapefile for the latest Global Paleomagnetic Database (GPMDB)
-4.6b. It can be opened using QGIS or ArcGIS. **Please note that here the points
-visulized are sampling sites**.
+4.6b, including joined two tables: PMAGRESULT and ALTRESULT ([See more details
+about these two tables][4]). It can be opened using QGIS or ArcGIS. **Please
+note that here the points visulized are sampling sites**.
 
 ![GPMDB 4.6b opened in QGIS](gpmdb46b_qgis_demo.png?raw=true)
 
@@ -32,3 +33,4 @@ recently maintained by [Sergei A. Pisarevsky][3].
 [1]: http://www.iggl.no/resources.html#data
 [2]: https://link.springer.com/article/10.1007%2FBF01888979
 [3]: http://onlinelibrary.wiley.com/doi/10.1029/2003EO200007/full
+[4]: https://github.com/f-i/Paleomagnetic_Data_from_Chinese_Literature#pmagresult
