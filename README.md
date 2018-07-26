@@ -1,8 +1,9 @@
 # GPMDB_GIS_version
 Here is the GIS shapefile for the latest Global Paleomagnetic Database (GPMDB)
-4.6b, including joined two tables: PMAGRESULT and ALTRESULT ([See more details
-about these two tables][4]). It can be opened using QGIS or ArcGIS. **Please
-note that here the points visulized are sampling sites**.
+4.6b, including joined four tables: PMAGRESULT, ALTRESULT, ROCKUNIT and
+REFERENCE ([See more details about these four tables][4]). It can be opened
+using QGIS or ArcGIS. **Please note that here the points visulized are sampling
+sites** (i.e. SLONG and SLAT in [PMAGRESULT table][4]).
 
 ![GPMDB 4.6b opened in QGIS](gpmdb46b_qgis_demo.png?raw=true)
 
